@@ -8,14 +8,7 @@ Content of ReadME
 
 
 
-
-
-
-
-
-
-
-* What is Android-Skeleton?
+What is Android-Skeleton?
 ------------------------------------------------------------------
 Android-Skeleton is a Source Code Skeleton for Android Projects.
 
@@ -25,7 +18,8 @@ Just download Android-Skeleton and open it with ADK Eclipse.
 
 Android Development Kit: http://developer.android.com/sdk/index.html
 
-* Who can use Android-Skeleton?
+
+Who can use Android-Skeleton?
 ------------------------------------------------------------------
 	A. Developers you wish a Source Code Template to avoid most of 
 		the from-the-scratch development of standard forms and activities.
@@ -34,7 +28,7 @@ Android Development Kit: http://developer.android.com/sdk/index.html
 		Android-Skeleton provides working source code.
 
 
-* Usage of Android-Skeleton
+Usage of Android-Skeleton
 ------------------------------------------------------------------
 	Step 1: Download Android-SDK and unzip directory.
 
@@ -44,9 +38,7 @@ Android Development Kit: http://developer.android.com/sdk/index.html
 	Step 3: Import Android-Skeleton directory into your workspace (File -> Import).
 		
 
-
-
-* Release History:
+Release History:
 ------------------------------------------------------------------
 
 	* Version 0.01:
